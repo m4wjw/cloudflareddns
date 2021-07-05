@@ -12,3 +12,6 @@
 2. email
 3. zone id
 4. zone name
+
+## 3. 例
+`./cloudflareddns.sh AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA abcdefg@gmail.com AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA www.examole.com`
